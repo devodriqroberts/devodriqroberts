@@ -56,8 +56,11 @@ Set up a local Splunk instance to monitor and detect security threats using **SP
 
 ### 🎓 Education & Certifications
 - **B.S. in Mechanical Engineering**, Georgia Southern University
+- **AWS Certified SysOps Administrator - Associate**
 - **AWS Certified Solutions Architect - Associate**
+- **CompTIA Cybersecurity Analyst+**
 - **CompTIA Security+**
+- **CompTIA Network+**
 
 
 ### 🤝 Connect with Me

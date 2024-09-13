@@ -29,22 +29,30 @@ Set up a local Splunk instance to monitor and detect security threats using **SP
 - **Hennessy Automobile Companies**  
   *Analytics Engineer, Business Intelligence*  
   *August 2023 – August 2024*  
-  - Developed and deployed scalable ETL pipelines, improving data processing efficiency and accuracy.
+  - Developed and deployed scalable ETL pipelines at Hennessy Automobile Companies, reducing manual processes by 60%.
+  - Created reusable data transformation components, reducing redundancy by 40% and improving system scalability.
+  - Collaborated with stakeholders to automate manual processes, reducing human error by 30% and increasing data accuracy.
 
 - **CareerBuilder**  
   *Business Intelligence Developer*  
   *July 2021 – May 2023*  
-  - Automated reporting and optimized BI solutions, reducing manual interventions and report load times.
+  - Developed BI solutions using Knime, Python, and Tableau, reducing report load times by 50%.
+  - Automated reporting processes with Python and Tableau Server API, improving operational efficiency.
+  - Engineered custom data visualization tools for strategic decision-making at CareerBuilder.
 
 - **LeaseQuery**  
   *Analytics Engineer*  
   *December 2019 – July 2021*  
-  - Developed analytics solutions using Apache Airflow and Fivetran, improving data management processes.
+  - Developed analytics solutions using Apache Airflow, Fivetran, and Snowflake to streamline operations for key business units.
+  - Optimized SQL queries and refined Tableau extracts, reducing reporting load times by 30%.
+  - Collaborated with cross-functional teams to integrate SaaS data into Snowflake, improving data management and scalability.
 
 - **Textron Specialized Vehicles**  
   *Mechanical Engineer*  
   *January 2017 – November 2019*  
   - Developed a Django web app for SAP inventory management, saving $50k through data analytics.
+  - Built Qlik dashboards to streamline supply chain operations and improve decision-making.
+  - Led teams to implement data-driven systems using Siemens NX CAD and FEA, reducing manufacturing costs.
 
 ### 🎓 Education & Certifications
 - **B.S. in Mechanical Engineering**, Georgia Southern University

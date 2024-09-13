@@ -41,6 +41,11 @@ Set up a local Splunk instance to monitor and detect security threats using **SP
   *December 2019 – July 2021*  
   - Developed analytics solutions using Apache Airflow and Fivetran, improving data management processes.
 
+- **Textron Specialized Vehicles**  
+  *Mechanical Engineer*  
+  *January 2017 – November 2019*  
+  - Developed a Django web app for SAP inventory management, saving $50k through data analytics.
+
 ### 🎓 Education & Certifications
 - **B.S. in Mechanical Engineering**, Georgia Southern University
 - **AWS Certified Solutions Architect - Associate**

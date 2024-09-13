@@ -1,6 +1,3 @@
-Here's a GitHub profile README that showcases your skills and experience:
-
----
 
 # Hi, I'm Devodriq Roberts 👋
 
